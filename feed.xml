@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hive Investing Weekly</title>
+    <description>Weekly market intelligence from Hive — what signals changed, what Hive's paper portfolio did, and what to watch next. Educational only, not financial advice.</description>
+    <language>en-us</language>
+    <link>https://hive-investing.github.io/podcast</link>
+    <lastBuildDate>Fri, 29 May 2026 19:38:39 +0000</lastBuildDate>
+    <atom:link href="https://hive-investing.github.io/podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:title>Hive Investing Weekly</itunes:title>
+    <itunes:author>Hive Investing</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:language>en-us</itunes:language>
+    <itunes:owner>
+      <itunes:name>Hive Investing</itunes:name>
+      <itunes:email>hive@hive-investing.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://hive-investing.github.io/podcast/cover.jpg" />
+    <image>
+      <url>https://hive-investing.github.io/podcast/cover.jpg</url>
+      <title>Hive Investing Weekly</title>
+      <link>https://hive-investing.github.io/podcast</link>
+    </image>
+    <itunes:category text="Business">
+      <itunes:category text="Investing" />
+    </itunes:category>
+    <itunes:summary>Weekly market intelligence from Hive — what signals changed, what Hive's paper portfolio did, and what to watch next. Educational only, not financial advice.</itunes:summary>
+  </channel>
+</rss>
