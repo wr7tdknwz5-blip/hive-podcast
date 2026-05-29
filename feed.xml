@@ -5,7 +5,7 @@
     <description>Weekly market intelligence from Hive — what signals changed, what Hive's paper portfolio did, and what to watch next. Educational only, not financial advice.</description>
     <language>en-us</language>
     <link>https://wr7tdknwz5-blip.github.io/hive-podcast</link>
-    <lastBuildDate>Fri, 29 May 2026 19:41:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 19:47:43 +0000</lastBuildDate>
     <atom:link href="https://wr7tdknwz5-blip.github.io/hive-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:title>Hive Investing Weekly</itunes:title>
     <itunes:author>Hive Investing</itunes:author>
@@ -25,5 +25,20 @@
       <itunes:category text="Investing" />
     </itunes:category>
     <itunes:summary>Weekly market intelligence from Hive — what signals changed, what Hive's paper portfolio did, and what to watch next. Educational only, not financial advice.</itunes:summary>
+    <item>
+      <title>Hive Investing Weekly — May 26, 2026</title>
+      <description>Hive's weekly paper-trading research briefing for the week of May 26, 2026. Conversational deep-dive into the week's macro signals, sector rotation, and what the simulated portfolio did. Educational only, not financial advice.</description>
+      <pubDate>Tue, 26 May 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">hive-investing-ep0001-2026-05-26</guid>
+      <link>https://wr7tdknwz5-blip.github.io/hive-podcast/2026-05-26_hive_weekly.mp3</link>
+      <enclosure url="https://wr7tdknwz5-blip.github.io/hive-podcast/2026-05-26_hive_weekly.mp3" type="audio/mpeg" length="38356444" />
+      <itunes:title>Hive Investing Weekly — May 26, 2026</itunes:title>
+      <itunes:summary>Hive's weekly paper-trading research briefing for the week of May 26, 2026. Conversational deep-dive into the week's macro signals, sector rotation, and what the simulated portfolio did. Educational only, not financial advice.</itunes:summary>
+      <itunes:duration>39:57</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
