@@ -7,7 +7,7 @@
   <description>Daily single-stock Focus reports and weekly multi-signal briefings from Hive — an AI research engine tracking markets, macro, insider filings, and global signals. Paper-trading research only, not financial advice.</description>
   <link>https://hiveinvestai.substack.com</link>
   <language>en-us</language>
-  <lastBuildDate>Tue, 02 Jun 2026 14:49:18 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 02 Jun 2026 15:08:31 +0000</lastBuildDate>
   <atom:link href="https://wr7tdknwz5-blip.github.io/hive-podcast/blog_feed.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Hive Weekly: Market Strength Meets Warning Lights — 2026-06-02</title>
@@ -364,6 +364,212 @@
 <p><strong>Disclosure</strong></p>
 <p>Educational only. Not financial advice.</p>
 <p>Hive documents a simulated paper-trading research process. This report is for general educational and research commentary only; it is not investment advice and not a recommendation to buy, sell, or hold any security. Hive is not a registered investment adviser. Past performance does not predict future results.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title>Hive Focus: TSM — 2026-06-02</title>
+    <link>https://hiveinvestai.substack.com</link>
+    <guid isPermaLink='false'>hive-focus-tsm-2026-06-02</guid>
+    <pubDate>Tue, 02 Jun 2026 18:00:00 +0000</pubDate>
+    <category>Daily Focus</category>
+    <description>Taiwan Semiconductor Manufacturing Company (TSM) is the world's largest dedicated chip manufacturer, often called a &quot;foundry.&quot; Unlike companies that design and then make their own chips, TSM focuses solely on manufacturing chips that other companies design. Think of them as the high-tech factory…</description>
+    <content:encoded><![CDATA[<h1>Hive Focus: TSM — June 02, 2026</h1>
+<blockquote>
+<p>Sector: Semiconductors | Hive model: strong positive research signal | Paper-trading research journal</p>
+<p><strong>Context:</strong> This is part of Hive Investing AI's paper-trading research journal; the formal disclosure is at the bottom.</p>
+</blockquote>
+<h2>What Does TSM Do?</h2>
+<p>Taiwan Semiconductor Manufacturing Company (TSM) is the world's largest dedicated chip manufacturer, often called a "foundry." Unlike companies that design and then make their own chips, TSM focuses solely on manufacturing chips that other companies design. Think of them as the high-tech factory floor for giants like Apple, Nvidia, and Qualcomm, producing the advanced processors that power everything from smartphones and laptops to artificial intelligence servers and electric vehicles. They are a critical backbone of the global technology industry.</p>
+<h2>Hive Read</h2>
+<p>Hive is watching TSM because the latest paper-trading signal is a <strong>strong positive research signal</strong> with a score of <strong>0.97</strong>. In plain English: the market tape is giving Hive enough evidence to study the setup, but not enough to call it a sure thing.<br />
+The clean signal phrase for the archive is: strong positive research signal with a 0.973 score.</p>
+<ul>
+<li><strong>Market-data freshness:</strong> internal market snapshot available for 2026-06-02.</li>
+<li><strong>What changed:</strong> No prior archived run exists for comparison yet.</li>
+<li><strong>Main caution:</strong> The risk is not that TSM is a weak business. The risk is that expectations may already be pricing in a lot of artificial intelligence growth.</li>
+</ul>
+<p>The goal of this section is simple: separate a useful signal from a sure thing. Hive is documenting the process, not making a prediction promise.</p>
+<h2>Signal Drivers</h2>
+<p>Hive's paper-trading model currently classifies TSM as a <strong>strong positive research signal</strong> with a composite score of 0.973. This is a research classification inside Hive's simulated portfolio, not a buy/sell/hold recommendation.</p>
+<p>This table is the short version of Hive's signal check. It is not a recommendation; it is the reason this name made today's research queue.</p>
+<table>
+<thead>
+<tr>
+<th>What Hive Checked</th>
+<th>Plain-English Read</th>
+<th>Evidence</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Price momentum</td>
+<td>Positive</td>
+<td>Hive's momentum cache shows +108.3% trailing performance over the prior 12 months excluding the most recent month.</td>
+</tr>
+<tr>
+<td>Relative strength vs SPY</td>
+<td>Positive</td>
+<td>Relative return versus SPY on the same measure: +84.6%.</td>
+</tr>
+<tr>
+<td>Trend alignment</td>
+<td>Positive</td>
+<td>Trend score: 1.00; cached reasons cite moving-average/MACD alignment when available.</td>
+</tr>
+<tr>
+<td>Volume accumulation</td>
+<td>Positive</td>
+<td>Volume score: 1.00; this checks whether volume confirms the move.</td>
+</tr>
+<tr>
+<td>Near 52-week high / extension</td>
+<td>Positive</td>
+<td>52-week-high proximity score: 0.90. Constructive momentum, but also a reminder that valuation and extension risk matter.</td>
+</tr>
+<tr>
+<td>Macro pressure</td>
+<td>Mixed/Negative</td>
+<td>Rates, inflation, and sector sensitivity can pressure multiples, margins, or demand even when the stock tape is strong.</td>
+</tr>
+<tr>
+<td>Supply chain / customer concentration</td>
+<td>Negative</td>
+<td>Advanced-chip demand is powerful, but customer concentration, Taiwan/geopolitics, export controls, and artificial intelligence capex cycles can reprice the story quickly.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>The simple translation:</strong><br />
+- Strong trailing momentum excluding the most recent month (+108.3%)<br />
+- Bullish trend alignment (MACD/EMA/SMA200)<br />
+- Near upper Bollinger Band (overbought)<br />
+- Strong volume accumulation (OBV rising)</p>
+<p><strong>Expectation check:</strong> The risk is not that TSM is a weak business. The risk is that expectations may already be pricing in a lot of artificial intelligence growth.</p>
+<h2>Edge Statement</h2>
+<p>Hive's edge is the repeatable checklist: price action, sector context, macro pressure, news confirmation, and risk checks all get read together. No single score gets to carry the whole story.</p>
+<h2>Hive Insight Stack</h2>
+<ul>
+<li><strong>Signal strength:</strong> price-and-volume evidence is the starting point.</li>
+<li><strong>Signal quality:</strong> Hive checks whether the move is supported by sector and macro context.</li>
+<li><strong>Fragility:</strong> the setup gets weaker if expectations run ahead of evidence.</li>
+<li><strong>Data confidence:</strong> missing or stale inputs are called out instead of guessed.</li>
+</ul>
+<h2>Narrative vs Evidence</h2>
+<p>The public story may sound simple, but Hive separates the story from the evidence. For TSM, the evidence starts with the signal score, then gets checked against macro pressure, sector behavior, news, and valuation expectations.</p>
+<h2>Confirmation Chain</h2>
+<p>The signal is cleaner when momentum, relative strength, trend, volume, sector context, and news all point in the same direction. If those pieces split, Hive treats the setup as more fragile.</p>
+<h2>Signal Change</h2>
+<p>Signal status: <strong>current-run baseline</strong>. Hive will compare the next run against this baseline instead of pretending one snapshot is a trend.</p>
+<h2>Priced-In Check</h2>
+<p>The market may already know the good news. Hive watches whether price is running ahead of what the business and macro data can reasonably support.</p>
+<h2>Variant View</h2>
+<p>The skeptical view is simple: a strong tape can still be too crowded or too expensive. The constructive view is that strong demand and sector support can keep the setup working longer than expected.</p>
+<h2>Scenario Analysis</h2>
+<table>
+<thead>
+<tr>
+<th>Scenario</th>
+<th>What It Means</th>
+<th>What Hive Watches</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Better case</td>
+<td>Signal stays supported</td>
+<td>Sector strength, demand, and news confirmation</td>
+</tr>
+<tr>
+<td>Base case</td>
+<td>Strong but selective setup</td>
+<td>Whether price strength survives macro pressure</td>
+</tr>
+<tr>
+<td>Worse case</td>
+<td>Expectations cool</td>
+<td>Trend breaks, weaker demand, or negative news</td>
+</tr>
+</tbody>
+</table>
+<h2>Risk Stack</h2>
+<ol>
+<li><strong>Expectations risk:</strong> price may already reflect a lot of good news.</li>
+<li><strong>Macro risk:</strong> rates and inflation can pressure high-expectation stocks.</li>
+<li><strong>Company risk:</strong> customer, regulatory, supply-chain, or execution issues can offset a strong chart.</li>
+</ol>
+<h2>Related Signals Hive Watches</h2>
+<p>Hive watches related names and themes so this does not become isolated ticker commentary. Current related watchlist: NVDA, AMD, AVGO, ASML, SMH.</p>
+<h2>What Would Change Hive's Mind</h2>
+<ul>
+<li><strong>Confirms the read:</strong> relative strength holds, volume supports the move, sector strength continues, and news stays constructive.</li>
+<li><strong>Weakens the read:</strong> trend support breaks, volume fades, sector peers weaken, or expectations get too stretched.</li>
+</ul>
+<h2>Signal Invalidation Map</h2>
+<p>Hive would treat the signal as less clean if relative strength fades, volume diverges, trend support breaks, peer signals deteriorate, or macro/supply-chain stress rises.</p>
+<h2>Hive News Sentiment</h2>
+<p>Hive scanned <strong>33 headlines</strong> across internal discovery feeds and scored each one for financial significance.</p>
+<table>
+<thead>
+<tr>
+<th>Measure</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>HNS Score</td>
+<td>+0.06/1.0 [▓▓░░]</td>
+</tr>
+<tr>
+<td>Sentiment</td>
+<td><strong>Neutral</strong></td>
+</tr>
+<tr>
+<td>Direction</td>
+<td>Stable vs. last week</td>
+</tr>
+<tr>
+<td>Bullish headlines</td>
+<td>10 of 33</td>
+</tr>
+<tr>
+<td>Bearish headlines</td>
+<td>5 of 33</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What's driving positive coverage:</strong> artificial intelligence capex · Product launch · Earnings beat</p>
+<p><strong>What the risk headlines are about:</strong> artificial intelligence capex · Analyst downgrades · Product launch</p>
+<p><em>HNS scores financial significance of coverage, not price direction. It is an aggregate signal, not investment advice.</em></p>
+<h2>The Market Environment Right Now</h2>
+<p>The broader economic picture shows a market that's generally positive but also keeping a close eye on a few key indicators. Inflation, measured by the CPI-U (Consumer Price Index for All Urban Consumers), was up 3.8% over the past year in April 2026, with a month-over-month increase of 0.6%. This means that, on average, prices for everyday goods and services are still rising faster than many would prefer, even if the monthly pace is somewhat contained.</p>
+<p>To counter this, the cost of borrowing money remains elevated. Hive's cached reading for the effective federal funds rate, which influences all sorts of lending, stood at 3.64% for April 2026. This higher rate means it's more expensive for businesses to borrow for expansion and for consumers to take out loans. Similarly, the 10-Year Treasury Yield, a benchmark for long-term borrowing costs, is at 4.48%. Despite these higher costs, the US job market continues to show resilience, with the unemployment rate at 4.3%. Overall, the market mood feels like a "cautious bull" – there's optimism, but also a watchful eye on how inflation and interest rates might evolve.</p>
+<h2>How This Environment Could Affect TSM</h2>
+<p>For a company like TSM, the current economic climate presents a mix of powerful tailwinds and notable considerations. One of the biggest drivers for TSM right now is the intense demand for artificial intelligence chips. As companies pour capital into building out artificial intelligence capabilities and data centers, they rely heavily on TSM's advanced manufacturing prowess to produce these cutting-edge processors. This surge in artificial intelligence capital expenditure (spending on equipment and infrastructure) is a significant positive theme for TSM, as highlighted in recent news coverage. Elevated global trade activity also tends to be a moderate positive for the semiconductor sector, suggesting robust demand for electronic goods worldwide.</p>
+<p>However, the higher interest rates we're seeing can create headwinds. TSM requires massive capital investment to build and equip its advanced fabrication plants (fabs). When interest rates (the cost of borrowing money) are high, it makes these enormous expansion projects more expensive, which could squeeze margins (how much profit a company keeps from each dollar of sales). There's also a moderate risk of oil tanker disruptions, which could increase shipping costs for raw materials and finished chips, further impacting TSM's operational expenses.</p>
+<p>Technically, Hive sees a strong tape: momentum, relative strength, trend alignment, and volume confirmation are positive. The main caution is extension risk. A stock near its 52-week high can keep breaking out, but it can also pull back sharply if expectations cool. The risk is not that TSM is a weak business. The risk is that expectations may already be pricing in a lot of artificial intelligence growth. For TSM, customer concentration, Taiwan/geopolitics, export controls, and any cooling in artificial intelligence capital spending are the offsets that keep the signal from becoming a victory lap.</p>
+<h2>Key Numbers to Know</h2>
+<ul>
+<li><strong>Hive's Signal:</strong> Strong positive research signal</li>
+<li><strong>Market Data Freshness:</strong> June 2, 2026</li>
+<li><strong>April 2026 CPI-U (year-over-year):</strong> +3.8%</li>
+<li><strong>April 2026 Effective Federal Funds Rate:</strong> 3.64%</li>
+<li><strong>10-Year Treasury Yield:</strong> 4.48%</li>
+<li><strong>US Unemployment Rate:</strong> 4.3%</li>
+</ul>
+<h2>What to Watch</h2>
+<p>Looking ahead, a curious observer would want to keep an eye on a few key areas. Continued demand for artificial intelligence chips will be paramount for TSM, so watching earnings reports from major tech companies (TSM's customers) can offer clues about their capital spending plans. The trajectory of inflation and future interest rate decisions from central banks will also impact TSM's borrowing costs for its crucial expansion projects. Geopolitical developments, particularly those affecting global trade and US-China relations, remain an important backdrop given TSM's critical role in the global technology supply chain.</p>
+<h2>Hive Bottom Line</h2>
+<p>TSM remains a strong positive research signal, but this is confirmation-driven, not valuation-driven. Hive sees strength in momentum, relative performance, and volume, while the main risks are expectations, artificial intelligence capex durability, and geopolitical exposure.</p>
+<h2>Data Notes</h2>
+<ul>
+<li>Market-data freshness: Hive had an internal price snapshot available for 2026-06-02, but raw vendor prices are not cited in public copy.</li>
+<li>Inflation data: CPI-U is sourced from the BLS series carried in Hive's FRED cache. For April 2026, the cached month-over-month change is 0.6%.</li>
+<li>CPI year-over-year: Hive's FRED/BLS cache calculates 3.8% for April 2026.</li>
+<li>Rate data: the Fed Funds figure uses the FRED FEDFUNDS monthly-average series, 3.64% for April 2026. This is Hive's cached rate reading, not a real-time policy target.</li>
+<li>Signal data: Hive's technical model blends momentum, relative strength, trend alignment, volume behavior, and mean-reversion inputs.</li>
+</ul>
+<hr />
+<p><strong>Disclosure</strong></p>
+<p>Hive documents a simulated paper-trading research process. This post is for general educational and research commentary only; it is not investment advice and not a recommendation to buy, sell, or hold any security. Hive is not a registered investment adviser. Past performance does not predict future results.</p>]]></content:encoded>
   </item>
   <item>
     <title>Hive Weekly: Market Strength Meets Warning Lights — 2026-06-01</title>
