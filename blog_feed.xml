@@ -7,7 +7,7 @@
   <description>Daily single-stock Focus reports and weekly multi-signal briefings from Hive — an AI research engine tracking markets, macro, insider filings, and global signals. Paper-trading research only, not financial advice.</description>
   <link>https://hiveinvestai.substack.com</link>
   <language>en-us</language>
-  <lastBuildDate>Tue, 02 Jun 2026 15:08:31 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 02 Jun 2026 15:16:12 +0000</lastBuildDate>
   <atom:link href="https://wr7tdknwz5-blip.github.io/hive-podcast/blog_feed.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Hive Weekly: Market Strength Meets Warning Lights — 2026-06-02</title>
@@ -120,7 +120,7 @@
 <th>Ticker</th>
 <th>Hive signal</th>
 <th>Score</th>
-<th>Price</th>
+<th>Market snapshot</th>
 <th>Why it matters</th>
 </tr>
 </thead>
@@ -129,56 +129,56 @@
 <td>AMD</td>
 <td>strong positive research signal</td>
 <td>0.978</td>
-<td>$510.13</td>
+<td>available</td>
 <td>Strong trailing momentum excluding the most recent month (+225.6%)</td>
 </tr>
 <tr>
 <td>AVGO</td>
 <td>strong positive research signal</td>
 <td>0.975</td>
-<td>$459.97</td>
+<td>available</td>
 <td>Strong trailing momentum excluding the most recent month (+75.4%)</td>
 </tr>
 <tr>
 <td>TSM</td>
 <td>strong positive research signal</td>
 <td>0.973</td>
-<td>$435.63</td>
+<td>available</td>
 <td>Strong trailing momentum excluding the most recent month (+108.3%)</td>
 </tr>
 <tr>
 <td>NVDA</td>
 <td>strong positive research signal</td>
 <td>0.946</td>
-<td>$224.36</td>
+<td>available</td>
 <td>Strong trailing momentum excluding the most recent month (+46.9%)</td>
 </tr>
 <tr>
 <td>AAPL</td>
 <td>strong positive research signal</td>
 <td>0.931</td>
-<td>$306.31</td>
+<td>available</td>
 <td>Strong trailing momentum excluding the most recent month (+39.9%)</td>
 </tr>
 <tr>
 <td>QCOM</td>
 <td>strong positive research signal</td>
 <td>0.866</td>
-<td>$228.99</td>
+<td>available</td>
 <td>Bullish trend alignment (MACD/EMA/SMA200)</td>
 </tr>
 <tr>
 <td>UNH</td>
 <td>strong positive research signal</td>
 <td>0.853</td>
-<td>$379.86</td>
+<td>available</td>
 <td>Bullish trend alignment (MACD/EMA/SMA200)</td>
 </tr>
 <tr>
 <td>CAT</td>
 <td>strong positive research signal</td>
 <td>0.845</td>
-<td>$865.36</td>
+<td>available</td>
 <td>Strong trailing momentum excluding the most recent month (+158.4%)</td>
 </tr>
 </tbody>
@@ -246,51 +246,51 @@
 <tbody>
 <tr>
 <td>XLK</td>
-<td>0.496</td>
+<td>0.485</td>
 <td>leading</td>
 </tr>
 <tr>
 <td>XLE</td>
-<td>0.477</td>
+<td>0.469</td>
 <td>leading</td>
 </tr>
 <tr>
 <td>XLI</td>
-<td>0.227</td>
+<td>0.219</td>
 <td>neutral</td>
 </tr>
 <tr>
 <td>XLB</td>
-<td>0.211</td>
-<td>neutral</td>
-</tr>
-<tr>
-<td>XLC</td>
-<td>0.164</td>
+<td>0.193</td>
 <td>neutral</td>
 </tr>
 <tr>
 <td>XLU</td>
-<td>0.156</td>
+<td>0.151</td>
 <td>neutral</td>
 </tr>
 <tr>
-<td>XLY</td>
-<td>0.118</td>
+<td>XLC</td>
+<td>0.151</td>
 <td>neutral</td>
 </tr>
 <tr>
 <td>XLV</td>
-<td>0.116</td>
+<td>0.111</td>
+<td>neutral</td>
+</tr>
+<tr>
+<td>XLY</td>
+<td>0.108</td>
 <td>neutral</td>
 </tr>
 </tbody>
 </table>
 <p>Plain English: if the ticker is swimming with its sector, Hive gives that signal more respect. If the ticker is fighting its sector, Hive treats the setup as more fragile until other evidence confirms it.</p>
 <h2>News And Trade Check</h2>
-<p>Hive refreshed the news and source-edge layer before this issue. The source router reviewed <strong>166 source lanes</strong>, with <strong>75 usable lanes</strong> for public-facing evidence. The current evidence grade is <strong>EXCELLENT</strong>. Plain English: Hive is trying not to build a market story from one headline.</p>
+<p>Hive refreshed the news and source-edge layer before this issue. The source router reviewed <strong>169 source lanes</strong>, with <strong>67 usable lanes</strong> for public-facing evidence. The current evidence grade is <strong>EXCELLENT</strong>. Plain English: Hive is trying not to build a market story from one headline.</p>
 <h2>Source Quality</h2>
-<p>Hive routed <strong>338 publish-safe facts</strong> from <strong>75 usable source lanes</strong> before this issue. The evidence grade is <strong>EXCELLENT</strong>.</p>
+<p>Hive routed <strong>142 publish-safe facts</strong> from <strong>67 usable source lanes</strong> before this issue. The evidence grade is <strong>EXCELLENT</strong>.</p>
 <table>
 <thead>
 <tr>
@@ -355,7 +355,7 @@
 </table>
 <p>GDELT is useful because it keeps Hive from relying only on price. Price shows what capital did. Global tone helps show what the news environment is emphasizing. This week, the useful read is whether tone confirms the market move or stays too mixed to trust.</p>
 <h2>Daily Stock Desk</h2>
-<p>The latest daily stock note in the queue is <strong>Hive Focus: AMD — June 01, 2026</strong>. The weekly report is the full map; the daily notes are the close-ups. That split matters for the product: podcast listeners get the plain-English tour, free readers get the weekly summary, and serious readers can use the blog as the research archive.</p>
+<p>The latest daily stock note in the queue is <strong>Hive Focus: TSM — June 02, 2026</strong>. The weekly report is the full map; the daily notes are the close-ups. That split matters for the product: podcast listeners get the plain-English tour, free readers get the weekly summary, and serious readers can use the blog as the research archive.</p>
 <p>For the full tables, signal chain, and daily single-stock breakdowns, read Hive Investing on Substack: https://hiveinvestai.substack.com</p>
 <h2>What Hive Is Watching Next</h2>
 <p>Hive will watch whether the next round of macro, sector, and ticker signals confirms the current regime or breaks it.</p>
