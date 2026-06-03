@@ -10,7 +10,7 @@ This source controls product separation for NotebookLM. The goal is not to make 
 
 **Blog:** the flagship product. The blog is the research library and should remain the only place for the full weekly report, daily single-stock deep dives, detailed signal tables, exact paper-portfolio documentation, charts, risk notes, and complete receipts.
 
-**Paid/blog member value:** the system view. Members should get the weekly Hive Market Board, signal upgrades and downgrades, what changed since the last run, priced-in checks, variant views, valuation and expectations snapshots, peer valuation history, exact catalyst calendars, options-positioning reads, scenario tables, risk stacks, peer/sector context, the Hive Insight Stack, narrative-vs-evidence divergence, confirmation chains, expectations pressure, crowding and fragility reads, thesis half-life, signal invalidation maps, paper-portfolio tracking, data-quality flags, known limitations, and model accountability notes.
+**Paid/blog member value:** the system view. Members should get the weekly Hive Market Board, signal upgrades and downgrades, what changed since the last run, priced-in checks, variant views, valuation and expectations snapshots, peer valuation history, exact catalyst calendars, options-positioning reads, scenario tables, risk stacks, peer/sector context, the Hive Insight Stack, narrative-vs-evidence divergence, confirmation chains, expectations pressure, crowding and fragility reads, thesis half-life, signal invalidation maps, paper-portfolio tracking, data-quality flags, known limitations, and Hive accountability notes.
 
 Blog destination: https://hiveinvestai.substack.com
 
@@ -33,7 +33,7 @@ Free media must withhold or summarize:
 - Peer valuation history and full options-positioning read.
 - Full priced-in check, variant view, and scenario table.
 - Full paper-portfolio tracker.
-- Complete model-accountability review.
+- Complete Hive research accountability review.
 - Full risk dashboard and archived receipts.
 
 Paid/blog value drivers:
@@ -46,10 +46,10 @@ Paid/blog value drivers:
 - Peer valuation history, exact catalyst calendar, and options-positioning read.
 - Bull/base/bear scenarios and ranked risk stack.
 - Signal-versus-fundamentals split, confidence grade, data-quality flags, and known limitations.
-- What would confirm or break the model's read.
-- Model watchlist with related names and themes.
+- What would confirm or break Hive's research read.
+- Hive watchlist with related names and themes.
 - Paper portfolio review: added, trimmed, held, monitored, or no action.
-- Model accountability: what Hive flagged, when, what happened after, what was wrong, and what improved.
+- Hive accountability: what Hive flagged, when, what happened after, what was wrong, and what improved.
 - Risk dashboard, sector rotation view, and full archive.
 
 Required system-view sections for paid/blog assets:
@@ -69,13 +69,13 @@ Required system-view sections for paid/blog assets:
 - Peer/Sector Context: Related names and ETFs that confirm whether a signal is isolated or broad.
 - Catalyst Calendar: Upcoming events or windows that can confirm, weaken, or reprice the signal.
 - Options Positioning: Put/call ratios, open interest, IV skew, max-pain, unusual-flow, and GEX context when cached.
-- What Would Change Hive's Mind: Confirmation and breakdown conditions that would alter the model read.
-- Model Watchlist: Related names, sectors, or themes Hive is monitoring before a future signal change.
+- What Would Change Hive's Mind: Confirmation and breakdown conditions that would alter Hive's research read.
+- Hive Watchlist: Related names, sectors, or themes Hive is monitoring before a future signal change.
 - Paper Portfolio Review: What Hive added, trimmed, held, monitored, or left unchanged in the simulated book.
-- Model Accountability: What Hive flagged, when it flagged it, what happened after, what was wrong, and what improved.
+- Hive Accountability: What Hive flagged, when it flagged it, what happened after, what was wrong, and what improved.
 - Signal Track Record: Score-bucket performance and sample size, with gaps called out instead of filled in.
 - Confidence Grade: A calibrated confidence label that reflects signal strength and data completeness.
-- Data Quality + Known Limitations: Source coverage, missing inputs, freshness, and model limitations.
+- Data Quality + Known Limitations: Source coverage, missing inputs, freshness, and method limitations.
 - Risk Dashboard: The concrete risks that could reprice signals or change portfolio posture.
 
 Pricing posture: Start paid access at $5-$10/month while trust is being built. Only move toward $15-$25/month after consistency and usefulness are proven.
@@ -88,7 +88,7 @@ Channel rule for podcast: make the free asset valuable, but point to the blog fo
 - Do not read full tables in the podcast or YouTube script.
 - Do not narrate the complete ranked signal list.
 - Do not give every ticker score, every sector rank, or every portfolio row.
-- Do not reveal the full weekly market board, all signal changes, or full model-accountability section.
+- Do not reveal the full weekly market board, all signal changes, or full Hive accountability section.
 - Do not reveal the full valuation snapshot, expectations snapshot, peer valuation history, options-positioning read, signal change log, risk stack, or score-bucket track record.
 - Do not reveal the complete Hive Insight Stack, confirmation chain, expectations-pressure table, thesis half-life details, or full signal invalidation map.
 - Do not turn the media output into a Bloomberg-style dissertation.
@@ -115,7 +115,7 @@ Channel rule for podcast: make the free asset valuable, but point to the blog fo
 - Signal change logs, score-bucket performance, confidence grades, data-quality flags, and known limitations.
 - Hive Insight Stack: signal quality, fragility, crowding, thesis half-life, confirmation chain, expectations pressure, invalidation map, and data-quality gate.
 - Peer/sector context and catalyst calendars.
-- Model accountability: what Hive flagged, when, what happened after, what was wrong, and what improved.
+- Hive accountability: what Hive flagged, when, what happened after, what was wrong, and what improved.
 - Daily Stock Deep Dive drafts and posts.
 - Weekly deep-data report with the complete signal chain.
 - Graphs, ranked lists, macro scorecards, sector tables, maritime tables, and portfolio documentation.
@@ -123,4 +123,4 @@ Channel rule for podcast: make the free asset valuable, but point to the blog fo
 
 ## NLM Host Rule
 
-The hosts should say Hive. Use Hive Investing AI once at the beginning if needed. Avoid generic model labels as the subject.
+The hosts should say Hive. Use Hive Investing AI once at the beginning if needed. Avoid generic system labels as the subject.

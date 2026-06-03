@@ -13,7 +13,7 @@ Target length: 30 to 40 minutes when the source packet is deep enough. Keep the 
 - Layman-friendly: every finance term gets a one-sentence plain-English translation.
 - Punchy: every segment needs a so-what, not just a data point.
 - Keep the listener oriented: say what changed, why it matters, and what Hive watches next.
-- Always say Hive. Avoid generic model labels.
+- Always say Hive. Avoid generic system labels.
 
 ## Segment Arc
 
@@ -55,7 +55,7 @@ Avoid phrases that sound like an institutional research terminal. Say the simple
 
 - Do not read full tables.
 - Do not summarize every daily deep dive.
-- Do not reveal all upgrades, downgrades, breakpoints, or the full model-accountability log.
+- Do not reveal all upgrades, downgrades, breakpoints, or the full Hive accountability log.
 - Do not give the complete signal chain with every supporting data point.
 - Do not make the listener feel they got the entire written product for free.
 - Say that the full tables, charts, daily notes, and deeper risk work are reserved for the blog.
@@ -64,4 +64,4 @@ Avoid phrases that sound like an institutional research terminal. Say the simple
 
 Use this only to understand the week's story angle. Do not quote it as the whole report.
 
-HIVE MIDWEEK FRESH PACKET - 2026-06-03 This is the source for the midweek podcast. Use the fresh packet below. Do not summarize last week's report or last week's podcast. Use Friday only as the baseline; the episode is about what changed since then, what did not confirm, and what Hive is watching next. Required opening frame: this is paper-trading research and general education, not investment advice. --- GEMINI REVIEWED MIDWEEK REPORT Midweek Market Check: June 3, 2026 This is a midweek check-in to review current research signals; it is not the Friday weekly show. What Changed: Hive’s research queue is currently dominated by the semiconductor sector. We are tracking strong positive research signals for NVDA 0.94 , TSM 0.97 , and AMD 0.98 . These names are showing significant momentum and volume accumulation, but they are also exhibiting...
+HIVE MIDWEEK FRESH PACKET - 2026-06-03 This is the source for the midweek podcast. Use the fresh packet below. Do not summarize last week's report or last week's podcast. Use Friday only as the baseline; the episode is about what changed since then, what did not confirm, and what Hive is watching next. Required opening frame: this is paper-trading research and general education, not investment advice. --- GEMINI REVIEWED MIDWEEK REPORT Midweek Market Check: June 3, 2026 This is a midweek check-in, not our Friday weekly show. Our research queue is currently dominated by the semiconductor sector, where NVDA, TSM, and AMD are all showing strong positive research signals. What has changed: We are seeing a high degree of alignment in price momentum, volume accumulation, and trend indicators across the semiconductor space. However, these...

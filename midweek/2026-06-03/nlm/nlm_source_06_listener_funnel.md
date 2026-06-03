@@ -6,7 +6,7 @@ The podcast is the free front door. Its job is to earn attention, build trust, m
 
 The blog is the research library. It carries the deeper written product: daily single-stock breakdowns and the full weekly report with detailed data, tables, signal chains, priced-in checks, variant views, valuation and expectations snapshots, peer valuation history, exact catalyst calendars, options-positioning reads, risk stacks, Hive Insight Stack, narrative-vs-evidence divergence, confirmation chains, expectations pressure, crowding and fragility reads, thesis half-life, signal invalidation maps, data-quality flags, and paper-portfolio documentation.
 
-The paid-worthy product is the system view, not another stock article: the weekly Hive Market Board, signal changes over time, priced-in checks, variant views, valuation/expectations snapshots, peer valuation history, options positioning, risk stacks, signal quality, fragility, crowding, thesis half-life, confirmation chains, what would confirm or break the read, paper-portfolio tracker, data-quality flags, risk dashboard, and model accountability.
+The paid-worthy product is the system view, not another stock article: the weekly Hive Market Board, signal changes over time, priced-in checks, variant views, valuation/expectations snapshots, peer valuation history, options positioning, risk stacks, signal quality, fragility, crowding, thesis half-life, confirmation chains, what would confirm or break the read, paper-portfolio tracker, data-quality flags, risk dashboard, and Hive accountability.
 
 Primary blog destination: **https://hiveinvestai.substack.com**
 Latest daily stock note found: **Hive Focus: NVDA — June 03, 2026** (2026-06-03_NVDA.md).
@@ -40,4 +40,4 @@ Latest daily stock note found: **Hive Focus: NVDA — June 03, 2026** (2026-06-0
 
 ## Host Reminder
 
-Say Hive by default. Use Hive Investing AI only once when introducing the show. Do not use generic artificial intelligence labels, algorithm labels, or model labels as the spoken subject.
+Say Hive by default. Use Hive Investing AI only once when introducing the show. Do not use generic artificial intelligence labels, algorithm labels, or system labels as the spoken subject.
