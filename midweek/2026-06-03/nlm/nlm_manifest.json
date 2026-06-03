@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T20:26:09.211039+00:00",
+  "generated_at": "2026-06-03T20:35:02.768001+00:00",
   "report_date": "Midweek Fresh Brief 2026-06-03",
   "output_dir": "E:\\Hive\\data\\podcast\\midweek\\2026-06-03\\nlm",
   "review_status": "machine_gate_pending",
@@ -11,8 +11,8 @@
       "unsafe_public_language"
     ],
     "source_count": 7,
-    "total_chars": 36925,
-    "approx_words": 7385,
+    "total_chars": 36919,
+    "approx_words": 7383,
     "unsafe": [
       {
         "filename": "nlm_source_01_product_boundary.md",
@@ -29,12 +29,12 @@
     {
       "title": "Podcast Show Brief",
       "filename": "nlm_source_02_podcast_brief.md",
-      "chars": 5112
+      "chars": 5113
     },
     {
       "title": "YouTube Show Brief",
       "filename": "nlm_source_03_youtube_brief.md",
-      "chars": 3188
+      "chars": 3181
     },
     {
       "title": "Media Market Story",
@@ -68,32 +68,15 @@
       "path": "E:\\Hive\\data\\podcast\\midweek\\2026-06-03\\nlm\\notebooklm_audio_short.mp3",
       "error": null,
       "review_status": "machine_gate_pending",
-      "reused": true,
-      "size_mb": 6.56,
-      "duration_seconds": 419
+      "size_mb": 9.67,
+      "duration_seconds": 618
     },
     "briefing": {
       "ok": true,
       "path": "E:\\Hive\\data\\podcast\\midweek\\2026-06-03\\nlm\\notebooklm_briefing.md",
       "error": null,
       "review_status": "machine_gate_pending",
-      "reused": true,
-      "chars": 7404
-    },
-    "infographic": {
-      "ok": true,
-      "path": "E:\\Hive\\data\\podcast\\midweek\\2026-06-03\\nlm\\notebooklm_infographic.png",
-      "error": null,
-      "review_status": "machine_gate_pending",
-      "reused": true,
-      "size_mb": 4.41
-    },
-    "slide_deck": {
-      "ok": false,
-      "path": null,
-      "error": "Task 0da2b933-b12a-4c16-8cb8-59952c824d0f timed out after 300.0s (last status: in_progress)",
-      "review_status": "failed",
-      "retryable": true
+      "chars": 7815
     }
   }
 }

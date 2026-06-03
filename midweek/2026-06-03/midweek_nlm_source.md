@@ -9,20 +9,16 @@ Required opening frame: this is paper-trading research and general education, no
 GEMINI REVIEWED MIDWEEK REPORT
 ### Midweek Market Check: June 3, 2026
 
-This is a midweek check-in on our research queue, not the Friday weekly show. 
+This is a midweek check-in to review current research signals; it is not the Friday weekly show. 
 
-**What Changed:**
-Our research queue is currently dominated by the semiconductor sector. We are tracking strong positive research signals for **NVDA (0.94)**, **TSM (0.97)**, and **AMD (0.98)**. Additionally, we are monitoring **A** (Agilent Technologies), which has flagged a positive research signal of 0.69. 
+**What Changed:** 
+Hive’s research queue is currently dominated by the semiconductor sector. We are tracking strong positive research signals for NVDA (0.94), TSM (0.97), and AMD (0.98). These names are showing significant momentum and volume accumulation, but they are also exhibiting signs of being extended near their 52-week highs. Additionally, we are monitoring 'A' (Agilent Technologies), which has triggered a positive research signal (0.69), though its momentum profile differs significantly from the semiconductor cohort.
 
-**Evidence Moved:**
-Across the semiconductor names, we are seeing consistent bullish alignment in price momentum, trend indicators (MACD/EMA), and volume accumulation. However, these signals are accompanied by elevated volatility and proximity to 52-week highs, suggesting that while the tape is strong, the setups are becoming extended.
+**Evidence Moved:** 
+Price-and-volume evidence remains the primary driver for the current semiconductor setup. However, macro pressures—specifically interest rates and sector-specific supply chain sensitivities—remain a persistent counter-weight. While the tape is currently constructive, the 'priced-in' risk is high; expectations for AI-driven growth are elevated, and any divergence between price action and fundamental delivery could lead to increased fragility.
 
-**Unresolved Items:**
-- **Expectation vs. Reality:** The primary concern across the semiconductor cohort is whether current price levels are pricing in the entirety of the AI-driven capex cycle. 
-- **Macro Sensitivity:** While the stock-specific tape is bullish, macro pressures—including interest rates and geopolitical risks—remain a persistent headwind that could impact multiples.
-
-**What Hive is Watching Next:**
-We are focusing on whether these strong signals can maintain their trend alignment in the face of macro volatility or if they will succumb to profit-taking as they reach overbought territory.
+**Unresolved:** 
+It remains unclear whether the current semiconductor momentum is sustainable or if it is running ahead of what macro and business data can support. We are watching for any breakdown in trend alignment or a shift in volume accumulation that would signal a cooling of these expectations.
 
 ## Hive Market 101
 
@@ -39,7 +35,7 @@ This is general financial education, not investment advice.
 
 ---
 PODCAST GEMINI REVIEW
-Discuss the current semiconductor concentration in our research queue (NVDA, TSM, AMD). Focus on why these names are hitting high signal scores (0.94-0.98) while emphasizing that 'strong signal' does not mean 'sure thing.' Highlight the 'Expectation Risk'—the danger that current prices have already baked in the best-case AI growth scenarios. Remind listeners this is a midweek check and not a formal weekly outlook.
+Discuss the current semiconductor cluster (NVDA, TSM, AMD) and why Hive's model is flagging them as 'strong positive research signals.' Emphasize that these are baseline snapshots, not predictions. Explain the importance of separating the 'story' of AI growth from the 'evidence' of price and volume. Keep the tone analytical and focused on the research process.
 
 Use only this scheduled Market 101 lesson: ## Hive Market 101
 
