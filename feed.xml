@@ -5,7 +5,7 @@
     <description>Weekly market intelligence from Hive — what signals changed, what Hive's paper portfolio did, and what to watch next. Educational only, not financial advice.</description>
     <language>en-us</language>
     <link>https://wr7tdknwz5-blip.github.io/hive-podcast</link>
-    <lastBuildDate>Mon, 01 Jun 2026 12:06:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 17:31:48 +0000</lastBuildDate>
     <atom:link href="https://wr7tdknwz5-blip.github.io/hive-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:title>Hive Investing Weekly</itunes:title>
     <itunes:author>Hive Investing</itunes:author>
@@ -27,6 +27,38 @@
     <itunes:summary>Weekly market intelligence from Hive — what signals changed, what Hive's paper portfolio did, and what to watch next. Educational only, not financial advice.</itunes:summary>
     <podcast:locked owner="matthew.menard4@gmail.com">yes</podcast:locked>
     <podcast:guid>8f3a2d91-hive-investing-weekly-2026</podcast:guid>
+    <item>
+      <title>Hive Midweek Brief — June 03, 2026</title>
+      <description># Hive Investing Midweek Briefing: June 03, 2026
+
+## Executive Summary
+
+The Hive ecosystem operates as a multi-tiered research platform designed to translate dense market data into a clear, dashboard-style narrative. As of the midweek brief on June 03, 2026, the market is characterized by a "cost-of-money" story where high interest rates (Fed Funds at 3.64%) and persistent inflation (CPI at 3.95% YoY) necessitate high earnings quality and sector rotation. 
+
+Current technical signals show a stron
+
+Full weekly breakdown at hiveinvestai.substack.com — educational only, not financial advice.</description>
+      <pubDate>Wed, 03 Jun 2026 17:31:48 +0000</pubDate>
+      <guid isPermaLink="false">hive-investing-ep0004-2026-06-03</guid>
+      <link>https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-03_notebooklm_audio_short.mp3</link>
+      <enclosure url="https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-03_notebooklm_audio_short.mp3" type="audio/mpeg" length="6876824" />
+      <itunes:title>Hive Midweek Brief — June 03, 2026</itunes:title>
+      <itunes:summary># Hive Investing Midweek Briefing: June 03, 2026
+
+## Executive Summary
+
+The Hive ecosystem operates as a multi-tiered research platform designed to translate dense market data into a clear, dashboard-style narrative. As of the midweek brief on June 03, 2026, the market is characterized by a "cost-of-money" story where high interest rates (Fed Funds at 3.64%) and persistent inflation (CPI at 3.95% YoY) necessitate high earnings quality and sector rotation. 
+
+Current technical signals show a stron
+
+Full weekly breakdown at hiveinvestai.substack.com — educational only, not financial advice.</itunes:summary>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:chapters url="https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-03_chapters.json" type="application/json+chapters" />
+      <link>https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-03_notes.html</link>
+    </item>
     <item>
       <title>Test Midweek Brief</title>
       <description>Test.</description>
