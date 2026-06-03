@@ -7,7 +7,7 @@ This document tells NotebookLM which source facts are safe to use as broad media
 - Router status: usable.
 - Source count: 186.
 - Routed fact count: 361.
-- Source statuses: usable: 143; thin: 9; stale: 33; quarantined: 1.
+- Source statuses: usable: 142; thin: 10; stale: 33; quarantined: 1.
 - Quarantined source count: 1.
 
 ## Source Quality
