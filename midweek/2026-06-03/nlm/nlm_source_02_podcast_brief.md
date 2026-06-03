@@ -39,7 +39,7 @@ Use these as color, not as a complete ranking. The complete ranked table is rese
 
 ## Sector Color
 
-Leading sector examples: Technology (XLK, 0.484), Energy (XLE, 0.463). Do not read the full sector ranking.
+Leading sector examples: Technology (XLK, 0.484), Energy (XLE, 0.462). Do not read the full sector ranking.
 Lagging sector examples: Financials (XLF, 0.025), Consumer Staples (XLP, 0.042). Use only if it helps the story.
 
 ## Blog CTA Placement
@@ -64,4 +64,4 @@ Avoid phrases that sound like an institutional research terminal. Say the simple
 
 Use this only to understand the week's story angle. Do not quote it as the whole report.
 
-HIVE MIDWEEK FRESH PACKET - 2026-06-03 This is the source for the midweek podcast. Use the fresh packet below. Do not summarize last week's report or last week's podcast. Use Friday only as the baseline; the episode is about what changed since then, what did not confirm, and what Hive is watching next. Required opening frame: this is paper-trading research and general education, not investment advice. --- GEMINI REVIEWED MIDWEEK REPORT Midweek Market Check: June 3, 2026 This is a midweek check, not the Friday weekly show. Our research queue is currently dominated by the semiconductor sector, with NVDA, TSM, and AMD all registering strong positive research signals in our paper-trading model. What has changed: We have established new baseline research runs for NVDA 0.94 , TSM 0.97 , and AMD 0.98 . These signals are driven by robust price...
+HIVE MIDWEEK FRESH PACKET - 2026-06-03 This is the source for the midweek podcast. Use the fresh packet below. Do not summarize last week's report or last week's podcast. Use Friday only as the baseline; the episode is about what changed since then, what did not confirm, and what Hive is watching next. Required opening frame: this is paper-trading research and general education, not investment advice. --- GEMINI REVIEWED MIDWEEK REPORT Midweek Market Check: June 3, 2026 This is a midweek check-in on our research queue, not the Friday weekly show. What Changed: Our research queue is currently dominated by the semiconductor sector. We are tracking strong positive research signals for NVDA 0.94 , TSM 0.97 , and AMD 0.98 . Additionally, we are monitoring A Agilent Technologies , which has flagged a positive research signal of 0.69. Evidence...

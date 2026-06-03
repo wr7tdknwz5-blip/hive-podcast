@@ -9,18 +9,20 @@ Required opening frame: this is paper-trading research and general education, no
 GEMINI REVIEWED MIDWEEK REPORT
 ### Midweek Market Check: June 3, 2026
 
-This is a midweek check, not the Friday weekly show. Our research queue is currently dominated by the semiconductor sector, with NVDA, TSM, and AMD all registering strong positive research signals in our paper-trading model. 
+This is a midweek check-in on our research queue, not the Friday weekly show. 
 
-**What has changed:**
-We have established new baseline research runs for NVDA (0.94), TSM (0.97), and AMD (0.98). These signals are driven by robust price momentum and volume accumulation. Additionally, we are tracking 'A' (Agilent Technologies), which shows a positive research signal (0.69) despite weaker trailing momentum compared to the chip sector.
+**What Changed:**
+Our research queue is currently dominated by the semiconductor sector. We are tracking strong positive research signals for **NVDA (0.94)**, **TSM (0.97)**, and **AMD (0.98)**. Additionally, we are monitoring **A** (Agilent Technologies), which has flagged a positive research signal of 0.69. 
 
-**Evidence and Observations:**
-- **Semiconductor Strength:** The sector is exhibiting significant bullish trend alignment and volume accumulation. However, these assets are trading near 52-week highs, which introduces extension risk.
-- **The 'Priced-In' Factor:** Across the semiconductor names, the primary caution is that market expectations for AI-driven growth may be fully reflected in current valuations. 
-- **Macro Context:** While the stock tape remains constructive, macro pressures—including interest rates and geopolitical supply chain sensitivities—remain persistent headwinds that could impact these setups.
+**Evidence Moved:**
+Across the semiconductor names, we are seeing consistent bullish alignment in price momentum, trend indicators (MACD/EMA), and volume accumulation. However, these signals are accompanied by elevated volatility and proximity to 52-week highs, suggesting that while the tape is strong, the setups are becoming extended.
 
 **Unresolved Items:**
-We are monitoring whether the current price strength can sustain itself against potential macro volatility or if the semiconductor sector is becoming too crowded. We are also watching for any divergence between the strong technical signals and the underlying business fundamentals.
+- **Expectation vs. Reality:** The primary concern across the semiconductor cohort is whether current price levels are pricing in the entirety of the AI-driven capex cycle. 
+- **Macro Sensitivity:** While the stock-specific tape is bullish, macro pressures—including interest rates and geopolitical risks—remain a persistent headwind that could impact multiples.
+
+**What Hive is Watching Next:**
+We are focusing on whether these strong signals can maintain their trend alignment in the face of macro volatility or if they will succumb to profit-taking as they reach overbought territory.
 
 ## Hive Market 101
 
@@ -37,9 +39,9 @@ This is general financial education, not investment advice.
 
 ---
 PODCAST GEMINI REVIEW
-Discuss the current semiconductor concentration in our research queue (NVDA, TSM, AMD). Emphasize that these are paper-trading research signals, not recommendations. Highlight the divergence between the high-momentum semiconductor group and the more muted signal for 'A'. Include the Market 101 segment on 'Relative Strength' to explain why we compare these stocks against the S&P 500. Remind listeners this is a midweek check and we are focusing on baseline establishment rather than trend confirmation.
+Discuss the current semiconductor concentration in our research queue (NVDA, TSM, AMD). Focus on why these names are hitting high signal scores (0.94-0.98) while emphasizing that 'strong signal' does not mean 'sure thing.' Highlight the 'Expectation Risk'—the danger that current prices have already baked in the best-case AI growth scenarios. Remind listeners this is a midweek check and not a formal weekly outlook.
 
-Use this scheduled Market 101 lesson: ## Hive Market 101
+Use only this scheduled Market 101 lesson: ## Hive Market 101
 
 Episode 6: What Is Diversification?
 
@@ -129,7 +131,7 @@ CURRENT CACHE: free_execution_quality.json
 
 ---
 CURRENT CACHE: free_corporate_actions.json
-{"attribution_required": true, "events": [], "fetched_at": "2026-06-03T18:58:42.339769+00:00", "free_only": true, "input_sources": ["sec_8k"], "notes": ["Derived from SEC EDGAR public 8-K filings only.", "Use event rows as filing leads; cite the SEC filing URL in public content."], "ok": true, "publication_policy": "official_public_data", "schema": "hive.investing.free_corporate_actions.v1", "source": "free_corporate_actions", "summary": {"by_direction": {}, "by_type": {}, "detail_fetch_enabled": false, "event_count": 0, "sec_8k_rows_scanned": 25}}
+{"attribution_required": true, "events": [], "fetched_at": "2026-06-03T20:14:49.271756+00:00", "free_only": true, "input_sources": ["sec_8k"], "notes": ["Derived from SEC EDGAR public 8-K filings only.", "Use event rows as filing leads; cite the SEC filing URL in public content."], "ok": true, "publication_policy": "official_public_data", "schema": "hive.investing.free_corporate_actions.v1", "source": "free_corporate_actions", "summary": {"by_direction": {}, "by_type": {}, "detail_fetch_enabled": false, "event_count": 0, "sec_8k_rows_scanned": 25}}
 
 
 ---

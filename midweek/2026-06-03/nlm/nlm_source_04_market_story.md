@@ -25,7 +25,7 @@ Plain English: rates and inflation are the cost-of-money story. When money is ex
 
 Leading sector examples:
 - Technology (XLK), momentum score 0.484.
-- Energy (XLE), momentum score 0.463.
+- Energy (XLE), momentum score 0.462.
 - Industrials (XLI), momentum score 0.218.
 
 Lagging sector examples:

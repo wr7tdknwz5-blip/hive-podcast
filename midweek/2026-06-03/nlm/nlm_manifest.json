@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T20:13:09.338867+00:00",
+  "generated_at": "2026-06-03T20:26:09.211039+00:00",
   "report_date": "Midweek Fresh Brief 2026-06-03",
   "output_dir": "E:\\Hive\\data\\podcast\\midweek\\2026-06-03\\nlm",
   "review_status": "machine_gate_pending",
@@ -29,12 +29,12 @@
     {
       "title": "Podcast Show Brief",
       "filename": "nlm_source_02_podcast_brief.md",
-      "chars": 5111
+      "chars": 5112
     },
     {
       "title": "YouTube Show Brief",
       "filename": "nlm_source_03_youtube_brief.md",
-      "chars": 3189
+      "chars": 3188
     },
     {
       "title": "Media Market Story",
@@ -91,7 +91,7 @@
     "slide_deck": {
       "ok": false,
       "path": null,
-      "error": "Task a3cc115f-a5d7-4bbb-b46b-e413ff10d4f5 timed out after 300.0s (last status: in_progress)",
+      "error": "Task 0da2b933-b12a-4c16-8cb8-59952c824d0f timed out after 300.0s (last status: in_progress)",
       "review_status": "failed",
       "retryable": true
     }
