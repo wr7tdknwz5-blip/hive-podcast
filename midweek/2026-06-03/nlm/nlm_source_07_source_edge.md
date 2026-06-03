@@ -1,13 +1,13 @@
-# Hive Source Edge Router Brief - Week of Midweek Brief 2026-06-03
+# Hive Source Edge Router Brief - Week of Midweek Fresh Brief 2026-06-03
 
 This document tells NotebookLM which source facts are safe to use as broad media evidence. It is not the full paid research packet and it should not be read as a ticker ranking.
 
 ## Router Health
 
 - Router status: usable.
-- Source count: 182.
+- Source count: 186.
 - Routed fact count: 361.
-- Source statuses: usable: 139; thin: 9; stale: 33; quarantined: 1.
+- Source statuses: usable: 143; thin: 9; stale: 33; quarantined: 1.
 - Quarantined source count: 1.
 
 ## Source Quality

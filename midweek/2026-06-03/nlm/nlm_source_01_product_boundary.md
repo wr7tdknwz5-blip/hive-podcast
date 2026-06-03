@@ -1,4 +1,4 @@
-# Hive Product Boundary Brief - Week of Midweek Brief 2026-06-03
+# Hive Product Boundary Brief - Week of Midweek Fresh Brief 2026-06-03
 
 This source controls product separation for NotebookLM. The goal is not to make every channel say everything. The goal is to make each channel do its own job and make the blog the place serious readers return to.
 

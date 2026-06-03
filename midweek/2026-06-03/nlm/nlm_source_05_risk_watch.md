@@ -1,4 +1,4 @@
-# Hive Media Risk Watch - Week of Midweek Brief 2026-06-03
+# Hive Media Risk Watch - Week of Midweek Fresh Brief 2026-06-03
 
 Risk coverage for podcast and YouTube should be vivid but careful. Explain the chain; do not overclaim.
 

@@ -1,4 +1,4 @@
-# Hive Media Market Story - Week of Midweek Brief 2026-06-03
+# Hive Media Market Story - Week of Midweek Fresh Brief 2026-06-03
 
 This document gives NotebookLM the broad story. It is intentionally not the full blog report.
 
@@ -24,14 +24,14 @@ Plain English: rates and inflation are the cost-of-money story. When money is ex
 ## Sector Story
 
 Leading sector examples:
-- Technology (XLK), momentum score 0.482.
-- Energy (XLE), momentum score 0.467.
-- Industrials (XLI), momentum score 0.219.
+- Technology (XLK), momentum score 0.484.
+- Energy (XLE), momentum score 0.463.
+- Industrials (XLI), momentum score 0.218.
 
 Lagging sector examples:
 - Financials (XLF), momentum score 0.025.
-- Consumer Staples (XLP), momentum score 0.043.
-- Real Estate (XLRE), momentum score 0.097.
+- Consumer Staples (XLP), momentum score 0.042.
+- Real Estate (XLRE), momentum score 0.096.
 
 Do not read a full sector ranking on audio or video. Say the full sector table is in the blog.
 

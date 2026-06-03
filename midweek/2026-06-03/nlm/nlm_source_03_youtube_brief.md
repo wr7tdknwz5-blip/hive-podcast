@@ -1,4 +1,4 @@
-# Hive YouTube Brief - Week of Midweek Brief 2026-06-03
+# Hive YouTube Brief - Week of Midweek Fresh Brief 2026-06-03
 
 ## Job Of The Video
 
@@ -48,4 +48,4 @@ Keep it useful, not salesy. No urgency language, no performance promises, and no
 
 ## Short Editorial Seed
 
-HIVE MIDWEEK BRIEF SOURCE — 2026-06-03 Create a concise midweek podcast brief. This is paper-trading research, not investment advice. Focus on what changed since the weekly report: daily stock notes, macro data, signal changes, risks, and what Hive is watching next. Keep it shorter than the Friday long-form show and point listeners to Hive Investing on Substack for daily stock reports and the full weekly research packet. --- RECENT DAILY REPORT: 2026-06-03 NVDA.md Hive Focus: NVDA — June 03, 2026 Sector: Semiconductors | Hive model: strong positive research signal | Paper-trading research journal Context: This is part of Hive Investing AI's...
+HIVE MIDWEEK FRESH PACKET - 2026-06-03 This is the source for the midweek podcast. Use the fresh packet below. Do not summarize last week's report or last week's podcast. Use Friday only as the baseline; the episode is about what changed since then, what did not confirm, and what Hive is watching next. Required opening frame: this is paper-trading research and general education, not investment advice. --- GEMINI REVIEWED MIDWEEK REPORT Midweek Market Check: June 3, 2026 This is a midweek check-in, not our Friday weekly show. The current research queue is dominated by the semiconductor sector, with NVDA, TSM, and AMD all registering as...

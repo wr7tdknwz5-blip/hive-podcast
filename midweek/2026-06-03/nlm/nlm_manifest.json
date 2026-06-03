@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-03T17:21:48.017839+00:00",
-  "report_date": "Midweek Brief 2026-06-03",
+  "generated_at": "2026-06-03T20:03:31.028529+00:00",
+  "report_date": "Midweek Fresh Brief 2026-06-03",
   "output_dir": "E:\\Hive\\data\\podcast\\midweek\\2026-06-03\\nlm",
   "review_status": "machine_gate_pending",
   "published": false,
@@ -11,8 +11,8 @@
       "unsafe_public_language"
     ],
     "source_count": 7,
-    "total_chars": 36883,
-    "approx_words": 7376,
+    "total_chars": 36923,
+    "approx_words": 7384,
     "unsafe": [
       {
         "filename": "nlm_source_01_product_boundary.md",
@@ -24,12 +24,12 @@
     {
       "title": "Product Boundary Brief",
       "filename": "nlm_source_01_product_boundary.md",
-      "chars": 13699
+      "chars": 13705
     },
     {
       "title": "Podcast Show Brief",
       "filename": "nlm_source_02_podcast_brief.md",
-      "chars": 5102
+      "chars": 5112
     },
     {
       "title": "YouTube Show Brief",
@@ -39,22 +39,22 @@
     {
       "title": "Media Market Story",
       "filename": "nlm_source_04_market_story.md",
-      "chars": 2525
+      "chars": 2531
     },
     {
       "title": "Media Risk Watch",
       "filename": "nlm_source_05_risk_watch.md",
-      "chars": 1604
+      "chars": 1610
     },
     {
       "title": "Listener Funnel & Blog Membership",
       "filename": "nlm_source_06_listener_funnel.md",
-      "chars": 4008
+      "chars": 4014
     },
     {
       "title": "Source Edge Router Brief",
       "filename": "nlm_source_07_source_edge.md",
-      "chars": 6759
+      "chars": 6765
     }
   ],
   "podcast_duration_target": {
@@ -68,6 +68,7 @@
       "path": "E:\\Hive\\data\\podcast\\midweek\\2026-06-03\\nlm\\notebooklm_audio_short.mp3",
       "error": null,
       "review_status": "machine_gate_pending",
+      "reused": true,
       "size_mb": 6.56,
       "duration_seconds": 419
     },
@@ -76,6 +77,7 @@
       "path": "E:\\Hive\\data\\podcast\\midweek\\2026-06-03\\nlm\\notebooklm_briefing.md",
       "error": null,
       "review_status": "machine_gate_pending",
+      "reused": true,
       "chars": 7404
     },
     "infographic": {
@@ -83,12 +85,13 @@
       "path": "E:\\Hive\\data\\podcast\\midweek\\2026-06-03\\nlm\\notebooklm_infographic.png",
       "error": null,
       "review_status": "machine_gate_pending",
+      "reused": true,
       "size_mb": 4.41
     },
     "slide_deck": {
       "ok": false,
       "path": null,
-      "error": "Task 02dc0fad-cbe4-481a-9839-0863e6ab21ee timed out after 300.0s (last status: in_progress)",
+      "error": "Task 02d42307-9463-4da8-b7c4-829f9dac10fc timed out after 300.0s (last status: in_progress)",
       "review_status": "failed",
       "retryable": true
     }

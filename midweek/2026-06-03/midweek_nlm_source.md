@@ -7,31 +7,25 @@ Required opening frame: this is paper-trading research and general education, no
 
 ---
 GEMINI REVIEWED MIDWEEK REPORT
-Hive's midweek check uses 2026-06-03_NVDA.md, 2026-06-02_TSM.md, 2026-06-01_AMD.md plus current market caches. The point is not to replay last Friday's show. The point is to identify what changed, what stayed unresolved, and what Hive is watching into the end of the week.
+### Midweek Market Check: June 3, 2026
 
-## Hive Market 101
+This is a midweek check-in, not our Friday weekly show. The current research queue is dominated by the semiconductor sector, with NVDA, TSM, and AMD all registering as 'strong positive research signals' in our paper-trading model. 
 
-Episode 6: What Is Diversification?
+**What has changed:** We are seeing high-momentum setups across the chip space, with TSM and AMD showing significant trailing performance relative to the S&P 500. However, these signals are currently at a 'baseline' status, meaning we are establishing a reference point rather than identifying a new trend. 
 
-Plain-English lens for this midweek check: Use restaurant, weather, and basket analogies to explain concentration risk.
+**Evidence and Risks:** While price action, volume accumulation, and trend alignment are currently bullish, we are tracking significant 'expectations risk.' The market is pricing in aggressive growth, which leaves these names vulnerable to any cooling in AI capital expenditure or supply chain disruptions. We are also monitoring 'A' (Agilent Technologies), which shows a positive signal but with weaker momentum, highlighting the importance of selective analysis over broad sector assumptions.
 
-- Diversification means not making one thing responsible for your whole outcome.
-- Diversification can reduce risk. It cannot delete risk.
-- Beginner mistake: owning ten similar things and thinking that is diversified.
-
-This is general financial education, not investment advice.
-
-What Hive is watching next: whether source-edge changes confirm the early-week signal, whether risk appetite broadens beyond the obvious names, and whether any fresh event risk changes the paper-portfolio posture. This is educational research, not investment advice.
+**Market 101:** Understanding 'Relative Strength.' Relative strength measures how a stock performs compared to a benchmark (like the S&P 500). If a stock is up 10% while the market is down 5%, it has high relative strength. It is a key tool for identifying leadership, but remember: high relative strength can also signal that a stock is becoming 'crowded' or overextended.
 
 
 ---
 PODCAST GEMINI REVIEW
-NLM, focus this episode on the 'Semiconductor Cluster' (NVDA, TSM, AMD). Start by explaining that this is a midweek check-in. Discuss the concept of 'Relative Strength' (Market 101) and how it applies to these three names, which are all showing high scores in our research journal. Emphasize that these are research signals, not predictions. Discuss the 'Priced-In' risk: how do we distinguish between a company that is growing and a stock that is simply getting too expensive? Keep the tone analytical and focused on the evidence stack.
+Direct NLM to discuss the current 'Semiconductor Saturation' theme. Focus on the contrast between the strong technical signals (momentum, volume, trend) and the 'priced-in' risk. Use the Market 101 segment to explain the foundry model (TSM) to provide context on why these companies are so interconnected. Emphasize that these are research snapshots, not predictions. Remind listeners this is a midweek check and we are looking for evidence of fragility in these high-momentum names.
 
 
 ---
 MARKET 101 SEGMENT
-Relative Strength is a metric used to compare the performance of a single asset against a broader market index, such as the S&P 500. A positive relative strength reading suggests that the asset is moving faster or holding up better than the average market, helping investors identify 'leadership' in a sector versus stocks that are just moving with the tide.
+A 'Foundry' is a specialized manufacturing facility that produces chips designed by other companies. Unlike integrated device manufacturers that design and build their own products, foundries like TSM focus exclusively on the fabrication process, acting as the critical backbone for tech giants like Nvidia and Apple.
 
 
 ---

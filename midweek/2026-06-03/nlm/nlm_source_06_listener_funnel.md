@@ -1,4 +1,4 @@
-# Hive Listener Funnel & Blog Membership - Week of Midweek Brief 2026-06-03
+# Hive Listener Funnel & Blog Membership - Week of Midweek Fresh Brief 2026-06-03
 
 ## Business Job Of The Podcast
 
