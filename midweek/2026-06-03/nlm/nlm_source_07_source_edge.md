@@ -7,12 +7,12 @@ This document tells NotebookLM which source facts are safe to use as broad media
 - Router status: usable.
 - Source count: 186.
 - Routed fact count: 361.
-- Source statuses: usable: 142; thin: 10; stale: 33; quarantined: 1.
+- Source statuses: usable: 141; thin: 11; stale: 33; quarantined: 1.
 - Quarantined source count: 1.
 
 ## Source Quality
 
-Hive routed **112 publish-safe facts** from **37 usable source lanes** before this issue. The evidence grade is **BLOCKED**.
+Hive routed **113 publish-safe facts** from **37 usable source lanes** before this issue. The evidence grade is **BLOCKED**.
 
 | Evidence lane | What it adds | Quality |
 | --- | --- | --- |
@@ -20,10 +20,10 @@ Hive routed **112 publish-safe facts** from **37 usable source lanes** before th
 | AAPL / ta_signal | technical composite: Core daily signal strength for market board rank, stock reports, and confirmation chains. | usable |
 | GOOGL / ta_signal | technical composite: Core daily signal strength for market board rank, stock reports, and confirmation chains. | usable |
 | TSLA / ta_signal | technical composite: Core daily signal strength for market board rank, stock reports, and confirmation chains. | usable |
+| corporate_actions / free_corporate_actions | corporate action merger acquisition: Corporate actions can change catalyst timing, dilution risk, income framing, and event-driven content angles. | usable |
 | AMZN / ta_signal | technical composite: Core daily signal strength for market board rank, stock reports, and confirmation chains. | usable |
 | labor / bls_cpi | average hourly earnings private: Wage pressure links labor strength to margin and inflation risk. | usable |
 | inflation / bls_cpi | cpi all items: Headline CPI keeps inflation-sensitive claims tied to the official BLS release. | usable |
-| inflation / bls_cpi | cpi core less food energy: Core CPI helps separate persistent inflation pressure from energy and food noise. | usable |
 
 Hive uses this layer to keep the public story anchored to fresh, routed evidence rather than one-off headlines.
 
