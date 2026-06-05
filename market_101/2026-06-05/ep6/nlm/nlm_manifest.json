@@ -1,0 +1,69 @@
+{
+  "generated_at": "2026-06-05T20:30:58.688093+00:00",
+  "report_date": "Market 101 | Ep 6 | What Is Diversification?",
+  "output_dir": "E:\\Hive\\data\\podcast\\market_101\\2026-06-05\\ep6\\nlm",
+  "review_status": "machine_gate_pending",
+  "published": false,
+  "source_channel": "media",
+  "source_quality": {
+    "ok": true,
+    "issues": [],
+    "source_count": 7,
+    "total_chars": 37087,
+    "approx_words": 7417,
+    "unsafe": []
+  },
+  "sources": [
+    {
+      "title": "Product Boundary Brief",
+      "filename": "nlm_source_01_product_boundary.md",
+      "chars": 13741
+    },
+    {
+      "title": "Podcast Show Brief",
+      "filename": "nlm_source_02_podcast_brief.md",
+      "chars": 5114
+    },
+    {
+      "title": "YouTube Show Brief",
+      "filename": "nlm_source_03_youtube_brief.md",
+      "chars": 3206
+    },
+    {
+      "title": "Media Market Story",
+      "filename": "nlm_source_04_market_story.md",
+      "chars": 2545
+    },
+    {
+      "title": "Media Risk Watch",
+      "filename": "nlm_source_05_risk_watch.md",
+      "chars": 1624
+    },
+    {
+      "title": "Listener Funnel & Blog Membership",
+      "filename": "nlm_source_06_listener_funnel.md",
+      "chars": 4024
+    },
+    {
+      "title": "Source Edge Router Brief",
+      "filename": "nlm_source_07_source_edge.md",
+      "chars": 6833
+    }
+  ],
+  "podcast_duration_target": {
+    "min_seconds": 1800,
+    "max_seconds": 2400,
+    "guidance": "Target 30 to 35 minutes. Keep it lively and cut repetition."
+  },
+  "artifacts": {
+    "audio_short": {
+      "ok": true,
+      "path": "E:\\Hive\\data\\podcast\\market_101\\2026-06-05\\ep6\\nlm\\notebooklm_audio_short.mp3",
+      "error": null,
+      "review_status": "machine_gate_pending",
+      "reused": true,
+      "size_mb": 9.48,
+      "duration_seconds": 606
+    }
+  }
+}

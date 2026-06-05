@@ -5,7 +5,7 @@
     <description>Weekly market intelligence from Hive — what signals changed, what Hive's paper portfolio did, and what to watch next. Educational only, not financial advice.</description>
     <language>en-us</language>
     <link>https://wr7tdknwz5-blip.github.io/hive-podcast</link>
-    <lastBuildDate>Wed, 03 Jun 2026 21:14:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 20:30:58 +0000</lastBuildDate>
     <atom:link href="https://wr7tdknwz5-blip.github.io/hive-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:title>Hive Investing Weekly</itunes:title>
     <itunes:author>Hive Investing</itunes:author>
@@ -13,7 +13,7 @@
     <itunes:language>en-us</itunes:language>
     <itunes:owner>
       <itunes:name>Hive Investing</itunes:name>
-      <itunes:email>matthew.menard4@gmail.com</itunes:email>
+      <itunes:email>hive@hive-investing.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://wr7tdknwz5-blip.github.io/hive-podcast/cover.jpg" />
     <image>
@@ -25,8 +25,70 @@
       <itunes:category text="Investing" />
     </itunes:category>
     <itunes:summary>Weekly market intelligence from Hive — what signals changed, what Hive's paper portfolio did, and what to watch next. Educational only, not financial advice.</itunes:summary>
-    <podcast:locked owner="matthew.menard4@gmail.com">yes</podcast:locked>
+    <podcast:locked owner="hive@hive-investing.com">yes</podcast:locked>
     <podcast:guid>8f3a2d91-hive-investing-weekly-2026</podcast:guid>
+    <item>
+      <title>Hive Market 101: Ep 6 - What Is Diversification?</title>
+      <description>HIVE MARKET 101 PODCAST — Episode 6: What Is Diversification?
+
+Target audience: someone completely new to investing. Plain English only.
+Duration: 5-10 minutes. No investment recommendations.
+
+LESSON ANGLE: Use restaurant, weather, and basket analogies to explain concentration risk.
+
+EXAMPLES AND HOOKS TO WEAVE IN:
+- Diversification means not making one thing responsible for your whole outcome.
+- Diversification can reduce risk. It cannot delete risk.
+- Beginner mistake: owning ten similar things and thinking that is diversified.
+
+HARD RULES — never break these:
+- No ticker recommendations.
+- No paper-portfolio actions.
+- No ranked opportunities or signal calls.
+- No urgency or trading-alert language.
+- No paid research tease beyond a neutral link to the beginner hub or glossary.
+- Use examples, definitions, and hypotheticals only.
+
+
+General financial education only. Not investment advice.
+
+More Hive Market 101 lessons: https://hiveinvestai.substack.com</description>
+      <pubDate>Fri, 05 Jun 2026 20:30:58 +0000</pubDate>
+      <guid isPermaLink="false">hive-investing-ep0006-2026-06-05</guid>
+      <link>https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-05_notebooklm_audio_short.mp3</link>
+      <enclosure url="https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-05_notebooklm_audio_short.mp3" type="audio/mpeg" length="9940726" />
+      <itunes:title>Hive Market 101: Ep 6 - What Is Diversification?</itunes:title>
+      <itunes:summary>HIVE MARKET 101 PODCAST — Episode 6: What Is Diversification?
+
+Target audience: someone completely new to investing. Plain English only.
+Duration: 5-10 minutes. No investment recommendations.
+
+LESSON ANGLE: Use restaurant, weather, and basket analogies to explain concentration risk.
+
+EXAMPLES AND HOOKS TO WEAVE IN:
+- Diversification means not making one thing responsible for your whole outcome.
+- Diversification can reduce risk. It cannot delete risk.
+- Beginner mistake: owning ten similar things and thinking that is diversified.
+
+HARD RULES — never break these:
+- No ticker recommendations.
+- No paper-portfolio actions.
+- No ranked opportunities or signal calls.
+- No urgency or trading-alert language.
+- No paid research tease beyond a neutral link to the beginner hub or glossary.
+- Use examples, definitions, and hypotheticals only.
+
+
+General financial education only. Not investment advice.
+
+More Hive Market 101 lessons: https://hiveinvestai.substack.com</itunes:summary>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:chapters url="https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-05_chapters.json" type="application/json+chapters" />
+      <link>https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-05_notes.html</link>
+    </item>
     <item>
       <title>Hive Midweek Brief — June 03, 2026</title>
       <description>Hive Midweek Brief for 2026-06-03: a current check on what changed since the weekly report, what remains unresolved, and what Hive is watching next.
