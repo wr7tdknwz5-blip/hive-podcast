@@ -5,7 +5,7 @@
     <description>Weekly market intelligence from Hive — what signals changed, what Hive's paper portfolio did, and what to watch next. Educational only, not financial advice.</description>
     <language>en-us</language>
     <link>https://wr7tdknwz5-blip.github.io/hive-podcast</link>
-    <lastBuildDate>Fri, 05 Jun 2026 20:30:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 04:10:43 +0000</lastBuildDate>
     <atom:link href="https://wr7tdknwz5-blip.github.io/hive-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:title>Hive Investing Weekly</itunes:title>
     <itunes:author>Hive Investing</itunes:author>
@@ -27,6 +27,26 @@
     <itunes:summary>Weekly market intelligence from Hive — what signals changed, what Hive's paper portfolio did, and what to watch next. Educational only, not financial advice.</itunes:summary>
     <podcast:locked owner="hive@hive-investing.com">yes</podcast:locked>
     <podcast:guid>8f3a2d91-hive-investing-weekly-2026</podcast:guid>
+    <item>
+      <title>Hive Weekly Podcast: CAT, Cautious Bull, and the Sector Rotation Map - Week of 2026-06-05</title>
+      <description>Hive's weekly AI-powered market research briefing for the week of June 05, 2026. Market regime: neutral. We break down what changed in macro, signals, and Hive's simulated portfolio — and what to watch next. 
+
+Read the full written report at https://hiveinvestai.substack.com/p/hive-weekly-research-cat-cautious. Educational only, not financial advice.</description>
+      <pubDate>Fri, 05 Jun 2026 23:30:00 +0000</pubDate>
+      <guid isPermaLink="false">hive-investing-ep0007-2026-06-05</guid>
+      <link>https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-05_notebooklm_audio_long.mp3</link>
+      <enclosure url="https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-05_notebooklm_audio_long.mp3" type="audio/mpeg" length="26924819" />
+      <itunes:title>Hive Weekly Podcast: CAT, Cautious Bull, and the Sector Rotation Map - Week of 2026-06-05</itunes:title>
+      <itunes:summary>Hive's weekly AI-powered market research briefing for the week of June 05, 2026. Market regime: neutral. We break down what changed in macro, signals, and Hive's simulated portfolio — and what to watch next. 
+
+Read the full written report at https://hiveinvestai.substack.com/p/hive-weekly-research-cat-cautious. Educational only, not financial advice.</itunes:summary>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:chapters url="https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-05_notebooklm_audio_long_chapters.json" type="application/json+chapters" />
+      <link>https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-05_notebooklm_audio_long_notes.html</link>
+    </item>
     <item>
       <title>Hive Market 101: Ep 6 - What Is Diversification?</title>
       <description>HIVE MARKET 101 PODCAST — Episode 6: What Is Diversification?
