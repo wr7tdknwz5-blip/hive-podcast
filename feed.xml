@@ -5,7 +5,7 @@
     <description>Weekly market intelligence from Hive — what signals changed, what Hive's paper portfolio did, and what to watch next. Educational only, not financial advice.</description>
     <language>en-us</language>
     <link>https://wr7tdknwz5-blip.github.io/hive-podcast</link>
-    <lastBuildDate>Mon, 08 Jun 2026 19:39:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 15:32:17 +0000</lastBuildDate>
     <atom:link href="https://wr7tdknwz5-blip.github.io/hive-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:title>Hive Investing Weekly</itunes:title>
     <itunes:author>Hive Investing</itunes:author>
@@ -28,66 +28,61 @@
     <podcast:locked owner="hive@hive-investing.com">yes</podcast:locked>
     <podcast:guid>8f3a2d91-hive-investing-weekly-2026</podcast:guid>
     <item>
-      <title>Hive Investing Weekly — May 26, 2026</title>
-      <description>Hive's weekly paper-trading research briefing for the week of May 26, 2026. Conversational deep-dive into the week's macro signals, sector rotation, and what the simulated portfolio did. Educational only, not financial advice.</description>
-      <pubDate>Tue, 26 May 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">hive-investing-ep0001-2026-05-26</guid>
-      <link>https://wr7tdknwz5-blip.github.io/hive-podcast/2026-05-26_hive_weekly.mp3</link>
-      <enclosure url="https://wr7tdknwz5-blip.github.io/hive-podcast/2026-05-26_hive_weekly.mp3" type="audio/mpeg" length="38356444" />
-      <itunes:title>Hive Investing Weekly — May 26, 2026</itunes:title>
-      <itunes:summary>Hive's weekly paper-trading research briefing for the week of May 26, 2026. Conversational deep-dive into the week's macro signals, sector rotation, and what the simulated portfolio did. Educational only, not financial advice.</itunes:summary>
-      <itunes:duration>39:57</itunes:duration>
-      <itunes:episode>1</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Hive Investing Weekly — May 29, 2026</title>
-      <description>Hive's weekly paper-trading research briefing for the week of May 29, 2026. Fresh weekly review covering regime signals, the signal chain, what Hive's paper portfolio did and avoided, and what to watch next. Educational only, not financial advice.</description>
-      <pubDate>Fri, 29 May 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">hive-investing-ep0002-2026-05-29</guid>
-      <link>https://wr7tdknwz5-blip.github.io/hive-podcast/2026-05-29_hive_weekly.mp3</link>
-      <enclosure url="https://wr7tdknwz5-blip.github.io/hive-podcast/2026-05-29_hive_weekly.mp3" type="audio/mpeg" length="37683130" />
-      <itunes:title>Hive Investing Weekly — May 29, 2026</itunes:title>
-      <itunes:summary>Hive's weekly paper-trading research briefing for the week of May 29, 2026. Fresh weekly review covering regime signals, the signal chain, what Hive's paper portfolio did and avoided, and what to watch next. Educational only, not financial advice.</itunes:summary>
-      <itunes:duration>39:15</itunes:duration>
-      <itunes:episode>2</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Hive Midweek Brief — June 03, 2026</title>
-      <description>Hive Midweek Brief for 2026-06-03: a current check on what changed since the weekly report, what remains unresolved, and what Hive is watching next.
+      <title>Hive Midweek Brief - 2026-06-10</title>
+      <description>Hive Midweek Brief for 2026-06-10: a current check on what changed since the weekly report, what remains unresolved, and what Hive is watching next.
 
-Midweek Market Update: June 3, 2026 This is a midweek check-in, not the Friday weekly show. Current Market Landscape: The semiconductor sector is dominating our research queue, with NVDA, TSM, and AMD all registering as 'strong positive research signals' in our paper-trading model. While price momentum and volume accumulation remain robust, we are closely monitoring the 'expectations risk'—the possibility that current valuations have already priced in aggressive AI growth trajectories. What Changed: We have established new baseline research runs for NVDA, TSM, and AMD. While these names show strong technical alignment, they are currently exhibiting elevated volatility and are trading near upper Bollinger Bands, signaling a potential for exhaustion if macro pressures intensify.
+# Hive Strategic Briefing: Market Insights and Content Funnel (June 10, 2026) ## Executive Summary As of the week of June 10, 2026, Hive Investing AI (referred to primarily as "Hive") operates a tiered content ecosystem designed to move listeners from a high-level, conversational podcast toward a data-dense, membership-based research blog. The current market regime is characterized by a positive yield curve (+0.480%) and high interest rates (3.64%), placing a premium on sector rotation and earnings quality. Hive’s research currently highlights significant momentum in the semiconductor sector (TSM, AMD) and Tech/Energy sectors, while cautioning that expectations for artificial intelligence growth may already be priced in. All research is strictly framed as simulated paper trading for educational purposes, avoiding personalized financial advice or urgent "buy/sell" commands. --- ## Core Market Analysis: Midweek Check (June 10, 2026) ### Macroeconomic Snapshot The "cost-of-money" story.
 
-Market 101: What Is Diversification?.
+## Hive Midweek Check Use the freshest daily reports and market caches. Do not summarize last week's report. FRESH DAILY REPORT: 2026-06-10_CVX.md # Hive Focus: CVX — June 10, 2026 &gt; Chevron | Oil Gas | Hive paper-trading research journal ## What CVX Does Chevron is a giant energy company. Think of them as being involved in almost everything related to oil and natural gas, from digging it out of the ground to refining it and getting it to your local gas station. They operate all over the world, helping to power homes and businesses. ## What Hive Sees Hive's system is showing a really positive sign for Chevron today. It looks like the stock has been performing quite well over a recent period, showing a strong upward trend. This suggests that many people are interested in owning a piece of.
 
-This is not financial advice. For educational purposes only. Do your own research and consult a licensed professional for personal financial decisions.
+## Hive Market 101: What Does Inflation Actually Mean? Explain the concept in plain English. This is not financial advice. Do your own research.
 
-Full weekly breakdown at hiveinvestai.substack.com.</description>
-      <pubDate>Wed, 03 Jun 2026 21:14:45 +0000</pubDate>
-      <guid isPermaLink="false">hive-investing-ep0004-2026-06-03</guid>
-      <link>https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-03_notebooklm_audio_short.mp3</link>
-      <enclosure url="https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-03_notebooklm_audio_short.mp3" type="audio/mpeg" length="9755461" />
-      <itunes:title>Hive Midweek Brief — June 03, 2026</itunes:title>
-      <itunes:summary>Hive Midweek Brief for 2026-06-03: a current check on what changed since the weekly report, what remains unresolved, and what Hive is watching next.
+Written research home: https://hiveinvesting.blogspot.com/2026/06/hive-mid-week-check-in-june-11-2026.html.
 
-Midweek Market Update: June 3, 2026 This is a midweek check-in, not the Friday weekly show. Current Market Landscape: The semiconductor sector is dominating our research queue, with NVDA, TSM, and AMD all registering as 'strong positive research signals' in our paper-trading model. While price momentum and volume accumulation remain robust, we are closely monitoring the 'expectations risk'—the possibility that current valuations have already priced in aggressive AI growth trajectories. What Changed: We have established new baseline research runs for NVDA, TSM, and AMD. While these names show strong technical alignment, they are currently exhibiting elevated volatility and are trading near upper Bollinger Bands, signaling a potential for exhaustion if macro pressures intensify.
+This is Hive's simulated paper-trading research journal for education only. It is not financial advice, investment advice, or a recommendation to buy, sell, or hold any security.</description>
+      <pubDate>Wed, 10 Jun 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">hive-investing-ep0006-2026-06-10</guid>
+      <link>https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-10_notebooklm_audio_short.mp3</link>
+      <enclosure url="https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-10_notebooklm_audio_short.mp3" type="audio/mpeg" length="10076056" />
+      <itunes:title>Hive Midweek Brief - 2026-06-10</itunes:title>
+      <itunes:summary>Hive Midweek Brief for 2026-06-10: a current check on what changed since the weekly report, what remains unresolved, and what Hive is watching next.
 
-Market 101: What Is Diversification?.
+# Hive Strategic Briefing: Market Insights and Content Funnel (June 10, 2026) ## Executive Summary As of the week of June 10, 2026, Hive Investing AI (referred to primarily as "Hive") operates a tiered content ecosystem designed to move listeners from a high-level, conversational podcast toward a data-dense, membership-based research blog. The current market regime is characterized by a positive yield curve (+0.480%) and high interest rates (3.64%), placing a premium on sector rotation and earnings quality. Hive’s research currently highlights significant momentum in the semiconductor sector (TSM, AMD) and Tech/Energy sectors, while cautioning that expectations for artificial intelligence growth may already be priced in. All research is strictly framed as simulated paper trading for educational purposes, avoiding personalized financial advice or urgent "buy/sell" commands. --- ## Core Market Analysis: Midweek Check (June 10, 2026) ### Macroeconomic Snapshot The "cost-of-money" story.
 
-This is not financial advice. For educational purposes only. Do your own research and consult a licensed professional for personal financial decisions.
+## Hive Midweek Check Use the freshest daily reports and market caches. Do not summarize last week's report. FRESH DAILY REPORT: 2026-06-10_CVX.md # Hive Focus: CVX — June 10, 2026 &gt; Chevron | Oil Gas | Hive paper-trading research journal ## What CVX Does Chevron is a giant energy company. Think of them as being involved in almost everything related to oil and natural gas, from digging it out of the ground to refining it and getting it to your local gas station. They operate all over the world, helping to power homes and businesses. ## What Hive Sees Hive's system is showing a really positive sign for Chevron today. It looks like the stock has been performing quite well over a recent period, showing a strong upward trend. This suggests that many people are interested in owning a piece of.
 
-Full weekly breakdown at hiveinvestai.substack.com.</itunes:summary>
-      <itunes:episode>3</itunes:episode>
+## Hive Market 101: What Does Inflation Actually Mean? Explain the concept in plain English. This is not financial advice. Do your own research.
+
+Written research home: https://hiveinvesting.blogspot.com/2026/06/hive-mid-week-check-in-june-11-2026.html.
+
+This is Hive's simulated paper-trading research journal for education only. It is not financial advice, investment advice, or a recommendation to buy, sell, or hold any security.</itunes:summary>
+      <itunes:duration>10:14</itunes:duration>
+      <itunes:episode>6</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>bonus</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:chapters url="https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-03_chapters.json" type="application/json+chapters" />
-      <link>https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-03_notes.html</link>
+      <podcast:chapters url="https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-10_chapters.json" type="application/json+chapters" />
+      <link>https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-10_notes.html</link>
+    </item>
+    <item>
+      <title>Hive Weekly Podcast: CAT, Cautious Bull, and the Sector Rotation Map - Week of 2026-06-05</title>
+      <description>Hive's weekly AI-powered market research briefing for the week of June 05, 2026. Market regime: neutral. We break down what changed in macro, signals, and Hive's simulated portfolio — and what to watch next. 
+
+Read the full written report at https://hiveinvestai.substack.com/p/hive-weekly-research-cat-cautious. Educational only, not financial advice.</description>
+      <pubDate>Fri, 05 Jun 2026 23:30:00 +0000</pubDate>
+      <guid isPermaLink="false">hive-investing-ep0007-2026-06-05</guid>
+      <link>https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-05_notebooklm_audio_long.mp3</link>
+      <enclosure url="https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-05_notebooklm_audio_long.mp3" type="audio/mpeg" length="26924819" />
+      <itunes:title>Hive Weekly Podcast: CAT, Cautious Bull, and the Sector Rotation Map - Week of 2026-06-05</itunes:title>
+      <itunes:summary>Hive's weekly AI-powered market research briefing for the week of June 05, 2026. Market regime: neutral. We break down what changed in macro, signals, and Hive's simulated portfolio — and what to watch next. 
+
+Read the full written report at https://hiveinvestai.substack.com/p/hive-weekly-research-cat-cautious. Educational only, not financial advice.</itunes:summary>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:chapters url="https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-05_notebooklm_audio_long_chapters.json" type="application/json+chapters" />
+      <link>https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-05_notebooklm_audio_long_notes.html</link>
     </item>
     <item>
       <title>Hive Market 101: Ep 6 - What Is Diversification?</title>
@@ -152,24 +147,66 @@ More Hive Market 101 lessons: https://hiveinvestai.substack.com</itunes:summary>
       <link>https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-05_notes.html</link>
     </item>
     <item>
-      <title>Hive Weekly Podcast: CAT, Cautious Bull, and the Sector Rotation Map - Week of 2026-06-05</title>
-      <description>Hive's weekly AI-powered market research briefing for the week of June 05, 2026. Market regime: neutral. We break down what changed in macro, signals, and Hive's simulated portfolio — and what to watch next. 
+      <title>Hive Midweek Brief — June 03, 2026</title>
+      <description>Hive Midweek Brief for 2026-06-03: a current check on what changed since the weekly report, what remains unresolved, and what Hive is watching next.
 
-Read the full written report at https://hiveinvestai.substack.com/p/hive-weekly-research-cat-cautious. Educational only, not financial advice.</description>
-      <pubDate>Fri, 05 Jun 2026 23:30:00 +0000</pubDate>
-      <guid isPermaLink="false">hive-investing-ep0007-2026-06-05</guid>
-      <link>https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-05_notebooklm_audio_long.mp3</link>
-      <enclosure url="https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-05_notebooklm_audio_long.mp3" type="audio/mpeg" length="26924819" />
-      <itunes:title>Hive Weekly Podcast: CAT, Cautious Bull, and the Sector Rotation Map - Week of 2026-06-05</itunes:title>
-      <itunes:summary>Hive's weekly AI-powered market research briefing for the week of June 05, 2026. Market regime: neutral. We break down what changed in macro, signals, and Hive's simulated portfolio — and what to watch next. 
+Midweek Market Update: June 3, 2026 This is a midweek check-in, not the Friday weekly show. Current Market Landscape: The semiconductor sector is dominating our research queue, with NVDA, TSM, and AMD all registering as 'strong positive research signals' in our paper-trading model. While price momentum and volume accumulation remain robust, we are closely monitoring the 'expectations risk'—the possibility that current valuations have already priced in aggressive AI growth trajectories. What Changed: We have established new baseline research runs for NVDA, TSM, and AMD. While these names show strong technical alignment, they are currently exhibiting elevated volatility and are trading near upper Bollinger Bands, signaling a potential for exhaustion if macro pressures intensify.
 
-Read the full written report at https://hiveinvestai.substack.com/p/hive-weekly-research-cat-cautious. Educational only, not financial advice.</itunes:summary>
-      <itunes:episode>5</itunes:episode>
+Market 101: What Is Diversification?.
+
+This is not financial advice. For educational purposes only. Do your own research and consult a licensed professional for personal financial decisions.
+
+Full weekly breakdown at hiveinvestai.substack.com.</description>
+      <pubDate>Wed, 03 Jun 2026 21:14:45 +0000</pubDate>
+      <guid isPermaLink="false">hive-investing-ep0004-2026-06-03</guid>
+      <link>https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-03_notebooklm_audio_short.mp3</link>
+      <enclosure url="https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-03_notebooklm_audio_short.mp3" type="audio/mpeg" length="9755461" />
+      <itunes:title>Hive Midweek Brief — June 03, 2026</itunes:title>
+      <itunes:summary>Hive Midweek Brief for 2026-06-03: a current check on what changed since the weekly report, what remains unresolved, and what Hive is watching next.
+
+Midweek Market Update: June 3, 2026 This is a midweek check-in, not the Friday weekly show. Current Market Landscape: The semiconductor sector is dominating our research queue, with NVDA, TSM, and AMD all registering as 'strong positive research signals' in our paper-trading model. While price momentum and volume accumulation remain robust, we are closely monitoring the 'expectations risk'—the possibility that current valuations have already priced in aggressive AI growth trajectories. What Changed: We have established new baseline research runs for NVDA, TSM, and AMD. While these names show strong technical alignment, they are currently exhibiting elevated volatility and are trading near upper Bollinger Bands, signaling a potential for exhaustion if macro pressures intensify.
+
+Market 101: What Is Diversification?.
+
+This is not financial advice. For educational purposes only. Do your own research and consult a licensed professional for personal financial decisions.
+
+Full weekly breakdown at hiveinvestai.substack.com.</itunes:summary>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:chapters url="https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-03_chapters.json" type="application/json+chapters" />
+      <link>https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-03_notes.html</link>
+    </item>
+    <item>
+      <title>Hive Investing Weekly — May 29, 2026</title>
+      <description>Hive's weekly paper-trading research briefing for the week of May 29, 2026. Fresh weekly review covering regime signals, the signal chain, what Hive's paper portfolio did and avoided, and what to watch next. Educational only, not financial advice.</description>
+      <pubDate>Fri, 29 May 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">hive-investing-ep0002-2026-05-29</guid>
+      <link>https://wr7tdknwz5-blip.github.io/hive-podcast/2026-05-29_hive_weekly.mp3</link>
+      <enclosure url="https://wr7tdknwz5-blip.github.io/hive-podcast/2026-05-29_hive_weekly.mp3" type="audio/mpeg" length="37683130" />
+      <itunes:title>Hive Investing Weekly — May 29, 2026</itunes:title>
+      <itunes:summary>Hive's weekly paper-trading research briefing for the week of May 29, 2026. Fresh weekly review covering regime signals, the signal chain, what Hive's paper portfolio did and avoided, and what to watch next. Educational only, not financial advice.</itunes:summary>
+      <itunes:duration>39:15</itunes:duration>
+      <itunes:episode>2</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:chapters url="https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-05_notebooklm_audio_long_chapters.json" type="application/json+chapters" />
-      <link>https://wr7tdknwz5-blip.github.io/hive-podcast/2026-06-05_notebooklm_audio_long_notes.html</link>
+    </item>
+    <item>
+      <title>Hive Investing Weekly — May 26, 2026</title>
+      <description>Hive's weekly paper-trading research briefing for the week of May 26, 2026. Conversational deep-dive into the week's macro signals, sector rotation, and what the simulated portfolio did. Educational only, not financial advice.</description>
+      <pubDate>Tue, 26 May 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">hive-investing-ep0001-2026-05-26</guid>
+      <link>https://wr7tdknwz5-blip.github.io/hive-podcast/2026-05-26_hive_weekly.mp3</link>
+      <enclosure url="https://wr7tdknwz5-blip.github.io/hive-podcast/2026-05-26_hive_weekly.mp3" type="audio/mpeg" length="38356444" />
+      <itunes:title>Hive Investing Weekly — May 26, 2026</itunes:title>
+      <itunes:summary>Hive's weekly paper-trading research briefing for the week of May 26, 2026. Conversational deep-dive into the week's macro signals, sector rotation, and what the simulated portfolio did. Educational only, not financial advice.</itunes:summary>
+      <itunes:duration>39:57</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
 </rss>
