@@ -1,0 +1,30 @@
+{
+  "version": "1.2.0",
+  "author": "Hive Investing",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 20,
+      "title": "What Hive Saw \u2014 Macro Regime"
+    },
+    {
+      "startTime": 104,
+      "title": "The Signal Chain"
+    },
+    {
+      "startTime": 224,
+      "title": "What Hive Did"
+    },
+    {
+      "startTime": 339,
+      "title": "What to Watch Next"
+    },
+    {
+      "startTime": 469,
+      "title": "Wrap-up & Where to Find Us"
+    }
+  ]
+}

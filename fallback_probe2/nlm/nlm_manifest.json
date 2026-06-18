@@ -1,0 +1,16 @@
+{
+  "schema": "hive.investing.media_fallback.v1",
+  "report_date": "2026-06-18",
+  "source": "windows_sapi",
+  "artifacts": {
+    "audio_short": {
+      "ok": true,
+      "path": "data\\podcast\\fallback_probe2\\nlm\\notebooklm_audio_short.mp3",
+      "duration_seconds": 180
+    },
+    "briefing": {
+      "ok": true,
+      "path": "data\\podcast\\fallback_probe2\\nlm\\notebooklm_briefing.md"
+    }
+  }
+}

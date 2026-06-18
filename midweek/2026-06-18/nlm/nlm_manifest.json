@@ -1,0 +1,51 @@
+{
+  "generated_at": "2026-06-18T17:07:56.802338+00:00",
+  "report_date": "Midweek Brief 2026-06-18",
+  "output_dir": "E:\\Hive\\data\\podcast\\midweek\\2026-06-18\\nlm",
+  "review_status": "machine_gate_pending",
+  "published": false,
+  "source_channel": "podcast",
+  "content_type": "midweek_brief",
+  "topic": "Hive Midweek Brief - 2026-06-18",
+  "source_quality": {
+    "ok": false,
+    "issues": [
+      "too_few_source_documents"
+    ],
+    "source_count": 1,
+    "total_chars": 43533,
+    "approx_words": 8706,
+    "unsafe": []
+  },
+  "sources": [
+    {
+      "title": "Hive Treated Source - Hive Midweek Brief - 2026-06-18",
+      "filename": "Midweek Brief 2026-06-18_midweek_brief_podcast_hive_midweek_brief_2026_06_18.md",
+      "chars": 43533
+    }
+  ],
+  "podcast_duration_target": {
+    "min_seconds": 1800,
+    "max_seconds": 2400,
+    "guidance": "Target 35 to 40 minutes. Use the depth, but do not add filler."
+  },
+  "artifacts": {
+    "audio_short": {
+      "ok": true,
+      "path": "E:\\Hive\\data\\podcast\\midweek\\2026-06-18\\nlm\\notebooklm_audio_short.mp3",
+      "error": null,
+      "review_status": "machine_gate_pending",
+      "reused": true,
+      "size_mb": 8.16,
+      "duration_seconds": 522
+    },
+    "briefing": {
+      "ok": true,
+      "path": "E:\\Hive\\data\\podcast\\midweek\\2026-06-18\\nlm\\notebooklm_briefing.md",
+      "error": null,
+      "review_status": "machine_gate_pending",
+      "reused": true,
+      "chars": 31483
+    }
+  }
+}
